@@ -31,7 +31,6 @@
         <AmbientRadius>40.0</AmbientRadius>
         <ForwardDimDistance>7.816</ForwardDimDistance>
 
-        <SunDiscIntensity>0.4</SunDiscIntensity>
       </EnvironmentLight>
       <TextureMultipliers>
           <GlossMultiplier>0.9</GlossMultiplier>
